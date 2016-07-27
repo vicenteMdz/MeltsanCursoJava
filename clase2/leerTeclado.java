@@ -50,6 +50,14 @@ public class leerTeclado{
 					System.out.println("Estas en caso Default");
 					break;
 			}
+			while(grade<=100){
+				System.out.println("Grade: "+ grade);
+				grade++;
+			}
+			do{
+				System.out.println("Grade: "+ grade);
+				grade++;
+			}while(grade<=100);
 		}catch(IOException e){
 			System.out.println("Error al leer");
 		}catch(NumberFormatException e){
