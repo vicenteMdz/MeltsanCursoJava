@@ -1,4 +1,4 @@
-/**Miercoles 27 de Julio del 2016
+/*Miercoles 27 de Julio del 2016
  *Meltsan Solutions
  * @author Vicente Mendoza Bautista
  */
