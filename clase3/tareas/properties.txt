@@ -1,0 +1,4 @@
+-- listing properties --
+mykey40=myValue40
+mykey20=myValue20
+mykey30=myValue30
